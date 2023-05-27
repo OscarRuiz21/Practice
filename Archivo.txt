@@ -5,7 +5,7 @@ ala avestruz alacran
 
 Estamos aprendiendo a hacer un merge
 Vamos a agregar una rama 
-
+Este es el master
 Ahora, ahora estamos en la cabecera
 
 Seguimos practicando para hacer el merge 

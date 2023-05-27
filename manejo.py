@@ -2,8 +2,8 @@ import os
 import re
 os.system("cls")
 
-archivo = open("Archivo.txt", "r")
-
+with open("Archivo.txt", "r") as archivo:
+    contenido = archivo.read()
 
 
 # Lectura de archivo

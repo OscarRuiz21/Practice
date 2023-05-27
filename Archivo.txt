@@ -4,5 +4,8 @@ Saludos
 ala avestruz alacran 
 
 Estamos aprendiendo a hacer un merge
-Cambiamos esta linea solo en el master
-Agregamos esta linea solo al master
+Vamos a agregar una rama 
+
+Ahora, ahora estamos en la cabecera
+
+Seguimos practicando para hacer el merge 

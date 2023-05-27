@@ -7,3 +7,5 @@ Estamos aprendiendo a hacer un merge
 Vamos a agregar una rama 
 
 Ahora, ahora estamos en la cabecera
+
+Seguimos practicando para hacer el merge 

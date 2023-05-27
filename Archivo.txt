@@ -4,7 +4,7 @@ Saludos
 ala avestruz alacran 
 
 Estamos aprendiendo a hacer un merge
-Vamos a agregar una rama 
+Vamos a agregar una rama en cabecera 
 
 Ahora, ahora estamos en la cabecera
 

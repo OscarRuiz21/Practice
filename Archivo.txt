@@ -8,4 +8,8 @@ Vamos a agregar una rama en cabecera
 
 Ahora, ahora estamos en la cabecera
 
-Seguimos practicando para hacer el merge 
+Seguimos practicando para hacer el merge
+
+Ahora agregamos esta linea desde Github
+
+Ahora hacemos un pull

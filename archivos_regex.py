@@ -38,7 +38,7 @@ for llave, valor in registros.items():
     print(llave, valor)
 
 print('Prueba lista')
-
+print("Ultima practica en git para squash")
         
 
 # Ejemplo final

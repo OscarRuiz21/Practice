@@ -37,6 +37,8 @@ with open(args.archivo, 'r') as file:
 for llave, valor in registros.items():
     print(llave, valor)
 
+print('Prueba lista')
+
         
 
 # Ejemplo final

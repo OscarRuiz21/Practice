@@ -16,6 +16,14 @@ parser.add_argument('-a', '--archivo',
                     required=False )
 args = parser.parse_args()
 
+# parser2 = argparse.ArgumentParser(description='')
+# parser2.add_argument('-i','--info',
+#                      type=str,
+#                      help='Dame info',
+#                      default=False)
+
+# args2 = parser2.parse_args()
+
 with open(args.archivo, 'r') as file:
     content = file.read()
     emails = re.findall(email_pattern, content)

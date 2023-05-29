@@ -12,4 +12,4 @@ Seguimos practicando para hacer el merge
 
 Ahora agregamos esta linea desde Github
 
-Ahora hacemos un pull
+Ahora hacemos un pushcd

@@ -14,22 +14,19 @@ parser.add_argument('--argumento2',
 
 args = parser.parse_args()
 
-linea_p = []
 with open(args.archivo, 'r') as file:
-
-    content = file.read()
-
+    
     if args.argumento2 == "read":
+        content = file.read()
         print(content)
     else:
-        #argument_pattern = args.argumento2
-        for linea in file:
-            print(linea)
+        pattern = args.argumento2
+        for line in file:
+            if pattern in line:
+                print(line)
 
-            # pattern = re.compile(args.argumento2)
-            # cumple = re.search(pattern, linea)
-            if args.argumento2 in linea:
-                print(linea)
+
+
 
 
 
